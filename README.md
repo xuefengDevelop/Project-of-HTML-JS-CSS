@@ -1,6 +1,6 @@
 # Project-of-HTML-JS-CSS
 
-Project for HTML, CSS, JavaScipt on coursera teaching by Hong Kong University of Science and Technolongy
+Project for HTML, CSS, JavaScipt on Coursera taught by Hong Kong University of Science and Technolongy
 
 Three projects in total:
 
